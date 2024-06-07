@@ -1,0 +1,173 @@
+*{ font-family: Arial, sans-serif;
+    margin: 0;
+    padding:0;
+}
+body{
+    background-color: rgb(233, 233, 233);
+}
+#container{
+    text-align: center;
+    font-size: 1.5rem;
+
+}
+header{
+    width:100%;
+    height: 80px;
+    background-color: rgb(255, 255, 255);
+    padding-right: 90px;
+
+}
+.fline{
+
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+
+}
+.menu{
+     margin-left: 800px;
+}
+a:hover{
+    color: #ff3b25;
+}
+a{
+    text-decoration: none;
+    color: #000000;
+    margin-right: 50px;
+}
+.name{
+    margin-right: 10px;
+    font-size: 1.5rem;
+    margin-left: 10px;
+}
+.work{
+    margin-top: 10px;
+    font-size: 0.8rem;
+}
+.s{
+    margin-left: -20px;
+
+}
+.skill{
+    text-align: left;
+    margin-top: 80px;
+    margin-left: 350px;
+    font-size: 2rem;
+}
+ul{
+    margin-top: 20px;
+    font-size: 1.2rem;
+}
+.sc{
+    height: 30px;
+    width: 30px;
+    border-radius: 30px;
+    background-color:#eea302;
+    margin-left: 10px;
+}
+.sline{
+    margin-top: 50px;
+    margin-left: 30px;
+    display: flex;
+}
+#image{
+    width: none;
+    border-radius: 1000px;
+    margin-right: 50px;
+}
+.aboutt{
+    text-align: center;
+    margin-top: 20px;
+}
+.hello{
+    font-size:4rem;
+    margin-bottom: 10px;
+}
+.tline{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    display: flex;
+    margin-left: 400px;
+    }
+.mco{
+    height: 60px;
+    width: 60px;
+    background-color:#eea302;
+    border-radius: 50%;
+    border: solid 0.1px;
+    padding:30px;
+    margin-right:50px;
+    
+}
+h2.moc:hover{
+    color: rgb(221, 27, 27);
+}
+.mct:hover{
+    background-color: #ffffff;
+}
+.mco:hover{
+    background-color: #ffffff;
+}
+.mcto:hover{
+    background-color: #ffffff;
+}
+.mcto{
+    height: 60px;
+    width: 60px;
+    background-color: #ff3b25;
+    border-radius: 50%;
+    padding: 30px;
+    border: solid 0.1px;
+    margin-right:50px;
+}
+.mct{
+    height: 60px;
+    width: 60px;
+    background-color: #80d8da;
+    border-radius: 50%;
+    padding: 30px;
+    border: solid 0.1px;
+    justify-content: center;
+}
+.details{
+    border-top: solid 0.1px;
+    width: 100%;
+    height: 100px;
+    background-color: #ffffff;
+    padding-right: 90px;
+    margin-top: 100px;
+}
+.details{
+    text-align: center;
+    margin-top: 80px;
+    display: flex;
+
+}
+.ph{
+    margin-left: 300px;
+    margin-right: 400px;
+    margin-top: 10px;
+}
+.email{
+    margin-right: 400px;
+    margin-top: 10px;
+}
+.follow{
+    margin-top: 10px;
+}
+.end{
+    display: flex;
+    margin-left: 300px;
+    margin-right: 200px;
+    margin-top: -55px;
+
+
+}
+.e{ margin-left: 250px;
+    margin-right: 285px;
+}
+#insta{
+    margin-right: 15px;
+
+}
